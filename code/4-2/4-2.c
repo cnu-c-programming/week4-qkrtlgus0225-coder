@@ -33,5 +33,5 @@ int main() {
     printf("avg: %.2f\n", average(arr,n));
     printf("max: %d\n",max(arr,n));
 
-  return 0;
+    return 0;
 }
